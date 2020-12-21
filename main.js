@@ -4,5 +4,4 @@
 	burgerMenu.addEventListener('click', (event) => {
 		nav.classList.toggle('visible');
 	});
-	console.log(nav);
 })();
